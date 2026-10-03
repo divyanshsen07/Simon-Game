@@ -99,3 +99,5 @@ function reset() {
     userSeq = [];
     level = 0;
 }
+
+//new features
